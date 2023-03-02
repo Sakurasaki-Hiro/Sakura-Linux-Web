@@ -33,8 +33,8 @@ sudo bash pacup-updater.sh
 
 - 「Sakura Linux」アップデートプログラム<br>
 ①「pacup」を実行する<br>
-②『「Sakura Linux」アップデートプログラム』があれば、自動的に適用されます。<br>
-※「Sakura Linux」アップデートプログラムを使用するには、「「pacup」アップデートプログラム」の最新版の適用が必須になります<br>
+②『「Sakura Linux」アップデートプログラム』が、自動的に適用されます。<br>
+※『「Sakura Linux」アップデートプログラム』を使用するには、『「pacup」アップデートプログラム』の最新版の適用が必須になります<br>
 
 <br>
 
